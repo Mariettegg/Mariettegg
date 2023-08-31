@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mario Gomez
-- 
+  
 - 🌱 I’m currently studying Computer Science at
             Universidad Carlos III de Madrid,
             George Mason University and
